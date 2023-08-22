@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hi, I'm Christener 👋
 
+<ul>
+  <li> I am starting my coding journey with School Od Code.</li>
+  <li> I am interested in AI and the endless possibilities. </li>
+</ul>
 <!--
-**Christener19/Christener19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

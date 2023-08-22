@@ -1,7 +1,7 @@
 ### Hi, I'm Christener 👋
 
 <ul>
-  <li> I am starting my coding journey with School Od Code.</li>
+  <li> I am starting my coding journey with School Of Code.</li>
   <li> I am interested in AI and the endless possibilities. </li>
 </ul>
 <!--

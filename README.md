@@ -1,9 +1,8 @@
 ### Hi, I'm Christener 👋
 
-<ul>
-  <li> I am starting my coding journey with School Of Code.</li>
-  <li> I am interested in AI and the endless possibilities. </li>
-</ul>
+<p>I am a new web developer seeking challenges to advance my skills in a dynamic tech environment. I bring a proactive approach with keen attention to detail, and great organisational and communication skills. I am a collaborative team player who can also thrive independently. No matter the project I am committed to delivering high-quality work and ensuring user satisfaction.</p>
+
+<p> I am currently working on a 4-week project with my team Shift happens. We were paired with a stakeholder who asked us to create a dashboard so they could keep track of all their boot campers' attendance in one place. We called our application Intern. </p>
 <!--
 
 Here are some ideas to get you started:

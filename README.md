@@ -1,7 +1,7 @@
 ![Matrix Cat](https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif)
 
 
-### 👋 Greetings from Christener and Missy!
+### 👋🏼 Greetings from Christener and Missy!
 
 I'm an aspiring web developer, embarking on digital adventures with my feline sidekick, Missy. Together, we're navigating the exciting world of web development and reaching new heights!
 
@@ -14,7 +14,7 @@ I'm a junior full-stack web developer with a knack for solving puzzles. My train
 
 ---
 
-👩‍💻 **Professional Focus:**
+👩🏻‍💻 **Professional Focus:**
 - 🔭 Exploring new web technologies daily.
 - 🌱 Currently learning React.
 - 👯 Eager to collaborate on web projects.
@@ -23,7 +23,7 @@ I'm a junior full-stack web developer with a knack for solving puzzles. My train
 
 ---
 
-Tech Stack:
+💻 **Tech Stack:**
 
 
 <div style="display: inline-block;">
@@ -68,7 +68,7 @@ My journey in tech is fueled by a dual passion: enhancing my own life and positi
 
 ---
 
-**Contact Information:**
+🤙🏼 **Contact Information:**
 
 - 📫 Email: christenerleigh7070@gmail.com
 - 🌐 LinkedIn: [View my profile](https://www.linkedin.com/in/christener19/)

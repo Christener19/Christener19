@@ -80,4 +80,4 @@ My journey in tech is fueled by a dual passion: enhancing my own life and positi
 <br>
 <br>
 
-![Profile views](https://gpvc.arturio.dev/Christener19)
+![Profile views](https://komarev.com/ghpvc/?username=Christener19)

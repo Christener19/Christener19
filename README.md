@@ -25,12 +25,24 @@ I'm a junior full-stack web developer with a knack for solving puzzles. My train
 
 Tech Stack:
 
+
+<div style="display: inline-block;">
 <img src="Images/Brand=html5%2C%20Style=Dark.png" width="40" height="40">
 <img src="Images/Brand=css%2C%20Style=Dark.png" width="40" height="40">
 <img src="Images/Brand=js%2C%20Style=Dark.png" width="40" height="40">
-<img src="URL" width="40" height="40">
-<img src="URL" width="40" height="40">
-<img src="URL" width="40" height="40">
+<img src="Images/Brand=typescript%2C%20Style=Dark.png" width="40" height="40">
+<img src="Images/Brand=tailwind%2C%20Style=Dark.png" width="40" height="40">
+<img src="Images/Brand=reactjs%2C%20Style=Dark.png" width="40" height="40">
+<img src="Images/Brand=vitejs%2C%20Style=Dark.png" width="40" height="40">
+<img src="Images/Brand=nextjs%2C%20Style=Dark.png" width="40" height="40">
+<img src="Images/Brand=postfresql%2C%20Style=Dark.png" width="40" height="40">
+<img src="Images/Brand=nodejs%2C%20Style=Dark.png" width="40" height="40">
+</div>
+
+<div style="display: inline-block;">
+<img src="Images/Brand=github%2C%20Style=Dark.png" width="40" height="40">
+<img src="Images/Brand=figma%2C%20Style=Dark.png" width="40" height="40">
+</div>
 
 ---
 

@@ -1,13 +1,18 @@
 ![Matrix Cat](https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif)
 
 
-
-### 👋 Hello World! I'm Christener, Your Future Web Developer!
+### 👋 Greetings, World! I'm Christener, an Aspiring Web Developer, accompanied by my trusty feline sidekick, Missy. Together, we're coding our way to new heights!
 
 ---
 
 🌐 **About Me:**  
 Delving into the world of web development, I bring the same enthusiasm I have for solving complex puzzles. My recent journey through the School of Code's four-month bootcamp has equipped me to be a versatile junior full-stack web developer. Whether it's tackling front-end aesthetics or back-end functionality, I embrace each challenge with a zest for learning and growth. Beyond coding, I find joy and relaxation in spending time with animals, a perfect contrast to the digital world. With a combination of technical skills and a love for both logic and life's simple pleasures, I am ready to contribute to and grow in the dynamic tech industry.
+
+---
+
+Tech Stack:
+
+<img src="https://icons8.com/icons/set/html" width="40" height="40">
 
 ---
 

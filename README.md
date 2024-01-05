@@ -44,18 +44,19 @@ My journey in tech is fueled by a dual passion: enhancing my own life and positi
 ---
 
 🌟 **Fun Tidbits:**
--🎮 Gaming Passion: My favorite game is Mario Odyssey.
--🍳 Snack Love: Oddly enough, I'm all about frozen peas!
--🌍 Wanderlust Dream: Japan tops my travel wish list, but I'm eager to explore every corner of the globe.
--📚 Reading Escape: Immersed in the magical worlds of fantasy novels.
--🎵 Musical Mix: A bit of everything.
--🐾 Animal Affection: Proud parent to Missy, my 14-year-old feline companion.
--🎨 Hobbies: I enjoy unwinding with jigsaw puzzles and puzzle boxes, and getting lost in a good book.
--⚡ Fun fact: I have completed a half marathon in exactly 2 hours and 22 minutes.
+- 🎮 Gaming Passion: My favorite game is Mario Odyssey.
+- 🍳 Snack Love: Oddly enough, I'm all about frozen peas!
+- 🌍 Wanderlust Dream: Japan tops my travel wish list, but I'm eager to explore every corner of the globe.
+- 📚 Reading Escape: Immersed in the magical worlds of fantasy novels.
+- 🎵 Musical Mix: A bit of everything.
+- 🐾 Animal Affection: Proud parent to Missy, my 14-year-old feline companion.
+- 🎨 Hobbies: I enjoy unwinding with jigsaw puzzles and puzzle boxes, and getting lost in a good book.
+- ⚡ Fun fact: I have completed a half marathon in exactly 2 hours and 22 minutes.
 
+---
 
 **Contact Information:**
 
--📫 Email: christenerleigh7070@gmail.com
--🌐 LinkedIn: [View my profile](https://www.linkedin.com/in/christener19/)
+- 📫 Email: christenerleigh7070@gmail.com
+- 🌐 LinkedIn: [View my profile](https://www.linkedin.com/in/christener19/)
 

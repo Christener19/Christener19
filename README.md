@@ -72,4 +72,6 @@ My journey in tech is fueled by a dual passion: enhancing my own life and positi
 
 - 📫 Email: christenerleigh7070@gmail.com
 - 🌐 LinkedIn: [View my profile](https://www.linkedin.com/in/christener19/)
+- [Download My CV](https://raw.githubusercontent.com/Christener19/cv/main/CV%20ONLINE/CHRISTENER-LEIGH%20CV.pdf)
+
 

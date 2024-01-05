@@ -80,4 +80,7 @@ My journey in tech is fueled by a dual passion: enhancing my own life and positi
 <br>
 <br>
 
-![Profile views](https://komarev.com/ghpvc/?username=Christener19)
+<div style="display: flex; align-items: center;">
+<img src="https://komarev.com/ghpvc/?username=Christener19">
+<img src="https://www.codewars.com/users/Christener19/badges/micro">
+</div>

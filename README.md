@@ -1,19 +1,36 @@
 ![Matrix Cat](https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif)
 
 
-### 👋 Greetings, World! I'm Christener, an Aspiring Web Developer, accompanied by my trusty feline sidekick, Missy. Together, we're coding our way to new heights!
+### 👋 Greetings from Christener and Missy!
+
+I'm an aspiring web developer, embarking on digital adventures with my feline sidekick, Missy. Together, we're navigating the exciting world of web development and reaching new heights!
 
 ---
 
 🌐 **About Me:**  
-Delving into the world of web development, I bring the same enthusiasm I have for solving complex puzzles. My recent journey through the School of Code's four-month bootcamp has equipped me to be a versatile junior full-stack web developer. Whether it's tackling front-end aesthetics or back-end functionality, I embrace each challenge with a zest for learning and growth. Beyond coding, I find joy and relaxation in spending time with animals, a perfect contrast to the digital world. With a combination of technical skills and a love for both logic and life's simple pleasures, I am ready to contribute to and grow in the dynamic tech industry.
+Pronouns: She/Her
+
+I'm a junior full-stack web developer with a knack for solving puzzles. My training at the School of Code bootcamp has sharpened my skills in both front-end and back-end development. I'm passionate about learning, growing, and using my technical abilities to make a positive impact. When I'm not coding, I love spending time with animals and enjoying life's simple pleasures.
+
+---
+
+👩‍💻 **Professional Focus:**
+- 🔭 Exploring new web technologies daily.
+- 🌱 Currently learning React.
+- 👯 Eager to collaborate on web projects.
+- 🤔 On the lookout for mentorship and growth opportunities.
+- 💬 Let's talk about all things web development, tech innovations, or your latest Netflix binge!
 
 ---
 
 Tech Stack:
 
-<img src="https://icons8.com/icons/set/html" width="40" height="40">
-
+<img src="URL" width="40" height="40">
+<img src="URL" width="40" height="40">
+<img src="URL" width="40" height="40">
+<img src="URL" width="40" height="40">
+<img src="URL" width="40" height="40">
+<img src="URL" width="40" height="40">
 ---
 
 🚀 **Current Project:**  
@@ -27,12 +44,18 @@ My journey in tech is fueled by a dual passion: enhancing my own life and positi
 ---
 
 🌟 **Fun Tidbits:**
+-🎮 Gaming Passion: My favorite game is Mario Odyssey.
+-🍳 Snack Love: Oddly enough, I'm all about frozen peas!
+-🌍 Wanderlust Dream: Japan tops my travel wish list, but I'm eager to explore every corner of the globe.
+-📚 Reading Escape: Immersed in the magical worlds of fantasy novels.
+-🎵 Musical Mix: A bit of everything.
+-🐾 Animal Affection: Proud parent to Missy, my 14-year-old feline companion.
+-🎨 Hobbies: I enjoy unwinding with jigsaw puzzles and puzzle boxes, and getting lost in a good book.
+-⚡ Fun fact: I have completed a half marathon in exactly 2 hours and 22 minutes.
 
-- 🔭 Exploring new web technologies daily.
-- 🌱 Currently learning React.
-- 👯 Eager to collaborate on web projects.
-- 🤔 On the lookout for mentorship and growth opportunities.
-- 💬 Let's talk about all things web development, tech innovations, or your latest Netflix binge!
-- 📫 Reach me at [christenerleigh7070@gmail.com](mailto:christenerleigh7070@gmail.com).
-- 😄 Pronouns: She/Her.
-- ⚡ Fun fact: I have completed a half marathon in exactly 2 hours and 22 minutes.
+
+**Contact Information:**
+
+-📫 Email: christenerleigh7070@gmail.com
+-🌐 LinkedIn: [View my profile](https://www.linkedin.com/in/christener19/)
+

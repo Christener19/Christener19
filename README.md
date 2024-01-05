@@ -1,4 +1,4 @@
-### 👋 Hello World! I'm Christener, Your Future Favorite Web Developer!
+### 👋 Hello World! I'm Christener, Your Future Web Developer!
 
 ---
 

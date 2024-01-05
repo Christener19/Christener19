@@ -1,4 +1,8 @@
-![Matrix Cat](https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif)
+<!-- ![Matrix Cat](https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif) -->
+
+
+  <img align="centre" alt="GIF" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" alt="Matrix Cat" />
+
 
 
 ### 👋🏼 Greetings from Christener and Missy!

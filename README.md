@@ -7,8 +7,6 @@ I'm an aspiring web developer, embarking on digital adventures with my feline si
 ---
 
 🌐 **About Me:**  
-Pronouns: She/Her
-
 I'm a junior full-stack web developer with a knack for solving puzzles. My training at the School of Code bootcamp has sharpened my skills in both front-end and back-end development. I'm passionate about learning, growing, and using my technical abilities to make a positive impact. When I'm not coding, I love spending time with animals and enjoying life's simple pleasures.
 
 ---

@@ -1,8 +1,8 @@
  ![Matrix Cat](https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif)
 
-### 👋🏼 Greetings from Christener and Missy!
+### 👋🏼 Greetings from Christener and Missy - my feline sidekick!
 
-I'm a junior web developer, embarking on digital adventures with my feline sidekick, Missy. Together, we're navigating the exciting world of web development and reaching new heights!
+Together, we're navigating the exciting world of web development and reaching new heights!
 
 ---
 

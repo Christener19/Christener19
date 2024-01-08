@@ -2,7 +2,7 @@
 
 ### 👋🏼 Greetings from Christener and Missy!
 
-I'm an aspiring web developer, embarking on digital adventures with my feline sidekick, Missy. Together, we're navigating the exciting world of web development and reaching new heights!
+I'm a junior web developer, embarking on digital adventures with my feline sidekick, Missy. Together, we're navigating the exciting world of web development and reaching new heights!
 
 ---
 

@@ -59,7 +59,7 @@ My journey in tech is fueled by a dual passion: enhancing my own life and positi
 
 - 🎮 Gaming Passion: My favorite game is Mario Odyssey.
 - 🍳 Snack Love: Oddly enough, I'm all about frozen peas!
-- 🌍 Wanderlust Dream: Japan tops my travel wish list, but I'm eager to explore every corner of the globe.
+- 🌍 Wanderlust Dream: Japan tops my travel wish list, but I'm eager to explore every corner of Earth.
 - 📚 Reading Escape: Immersed in the magical worlds of fantasy novels.
 - 🎵 Musical Mix: A bit of everything.
 - 🐾 Animal Affection: Proud parent to Missy, my 14-year-old feline companion.

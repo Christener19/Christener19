@@ -46,8 +46,7 @@ I'm a junior full-stack web developer with a knack for solving puzzles. My train
 
 🚀 **Current Project:**  
 
-Diving headfirst into a 4-week adventure with my team, Shift Happens! We've partnered with a stakeholder to bring to life "Intern" – a dashboard designed to effortlessly track boot campers' attendance. It's where functionality meets creativity!
-
+Right now, I'm putting together my portfolio. It's a mix of different projects where I get to show off what I can do – from being creative to solving tricky problems in tech.
 ---
 
 💡 **What Drives Me:**  

@@ -14,8 +14,7 @@ I'm a junior full-stack web developer with a knack for solving puzzles. My train
 
 👩🏻‍💻 **Professional Focus:**
 
-- 🔭 Exploring new web technologies daily.
-- 🌱 Currently learning React.
+- 🌱 Currently learning React with Scrimba.
 - 👯 Eager to collaborate on web projects.
 - 🤔 On the lookout for mentorship and growth opportunities.
 - 💬 Let's talk about all things web development, tech innovations, or your latest Netflix binge!
@@ -46,7 +45,8 @@ I'm a junior full-stack web developer with a knack for solving puzzles. My train
 
 🚀 **Current Project:**  
 
-Right now, I'm putting together my portfolio. It's a mix of different projects where I get to show off what I can do – from being creative to solving tricky problems in tech.
+I'm putting together my portfolio. It's a mix of different projects where I get to show off what I can do – from being creative to solving tricky problems in tech.
+
 ---
 
 💡 **What Drives Me:**  

@@ -45,7 +45,7 @@ I'm a junior full-stack web developer with a knack for solving puzzles. My train
 
 🚀 **Current Project:**  
 
-I'm putting together my portfolio. It's a mix of different projects where I get to show off what I can do – from being creative to solving tricky problems in tech.
+I'm designing and creating a webpage for someone interested in bringing their local community together by organising a beer festival.
 
 ---
 
@@ -71,7 +71,7 @@ My journey in tech is fueled by a dual passion: enhancing my own life and positi
 🤙🏼 **Contact Information:**
 
 - 📫 Email: christenerleigh7070@gmail.com
-- 📃 C.V: [Download My CV](https://github.com/Christener19/Christener19/raw/main/Christener-Leigh-CV.pdf)
+- 📃 C.V: [download my CV](https://github.com/Christener19/Christener19/raw/main/Christener-Leigh-CV.pdf)
 
 
 

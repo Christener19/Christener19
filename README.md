@@ -68,11 +68,10 @@ My journey in tech is fueled by a dual passion: enhancing my own life and positi
 
 ---
 
-🤙🏼 **Contact Information:**
+<!--🤙🏼 **Contact Information:**
 
-- 📫 Email: christenerleigh7070@gmail.com
 - 📃 C.V: [download my CV](https://github.com/Christener19/Christener19/raw/main/Christener-Leigh-CV.pdf)
-
+-->
 
 
 <br>
